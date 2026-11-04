@@ -18,7 +18,7 @@ A lightweight personal AI desktop assistant with a popup command bar, top-center
    git clone https://github.com/Cosmicatalyst/Jarvis.git
    cd Jarvis
    ```
-3. Double-click **`setup_windows.bat`** (sets up everything and opens `.env` to paste an optional API key).
+3. Double-click **`setup_windows.bat`** (sets up everything and opens `.env` to paste an  API key).
 4. Double-click **`run_windows.bat`**, then press **`Alt + A`** anywhere to summon Jarvis.
 
 ### Arch Linux (Hyprland)
