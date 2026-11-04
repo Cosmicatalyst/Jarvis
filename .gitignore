@@ -1,0 +1,19 @@
+# Secrets (NEVER commit your .env file!)
+.env
+.env.*
+!.env.example
+
+# Python virtual environment & caches
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary audio / screenshot files
+*.mp3
+*.wav
+*.png
+*.swp
+*~
+.DS_Store
