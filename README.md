@@ -1,4 +1,4 @@
-# ⚡ Jarvis
+#  Jarvis
 
 A lightweight personal AI desktop assistant with a popup command bar, top-center live streaming HUD, neural British voice, screen reading, web search, and system controls. Works on **Windows** and **Arch Linux (Hyprland)**.
 
